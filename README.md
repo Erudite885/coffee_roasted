@@ -5,6 +5,7 @@ Coffee Roasters Landing Page.
 ## Page Views
 
 Large devices
+
 ![Large devices](./src/assets/coffee-Roasters_fullCapture.png)
 
 Mobile Devices
