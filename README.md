@@ -1,4 +1,4 @@
-## [COFFEE ROASTERS](https://coffee-roasted.netlify.app/)
+## [THE COFFEE ROASTERS](https://coffee-roasted.netlify.app/)
 
 
 Coffee Roasters Landing Page.
